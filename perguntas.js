@@ -1,17 +1,17 @@
 criaCartao(
-'Programação',
-'O que é Javascript?',
-'O javascript é uma lingugem de programação'
+'Apicultura',
+'Em que epoca do ano se deve colher mel?',
+'Se deve colher durante o Verão e a primavera'
 )
 
 criaCartao(
- "Historia",
- 'quem descobriu o Brasil?',
- 'A capital do Paraná é  Curitiba'
+ "Pais",
+ 'Qual o menor pais do mundo?',
+ 'O Vaticano'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O python é uma linguagem de programação'
+    'Quimica',
+    'Quais os tres estados da mateia(agua)?',
+    'Solido , liquido e gasoso'
 )
